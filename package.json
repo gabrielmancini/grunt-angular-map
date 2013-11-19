@@ -1,6 +1,6 @@
 {
   "name": "grunt-angular-map",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "Ease generate angular deps map",
   "main": "index.js",
   "scripts": {
