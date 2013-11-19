@@ -66,8 +66,8 @@ module.exports = function (grunt) {
     'mkdir:tmp',
     'copy',
     'angular_map',
-    'nodeunit'
-    //'clean'
+    'nodeunit',
+    'clean'
   ]);
 
   grunt.registerTask('default', ['test']);
