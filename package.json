@@ -1,0 +1,33 @@
+{
+  "name": "grunt-angular-map",
+  "version": "0.0.3",
+  "description": "Ease generate angular deps map",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "requirejs",
+    "map",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gabrielmancini/grunt-angular-map.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-copy": "~0.4.1"
+  },
+  "author": "Gabriel Mancini <gabriel.mancini@gmail.com> (https://github.com/gabrielmancini)",
+  "license": "MIT",
+  "files": [
+    "tasks/angular_map.js"
+  ],
+  "dependencies": {
+    "jsonpretty": "0.0.1"
+  }
+}

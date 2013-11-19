@@ -1,0 +1,10 @@
+.DS_Store
+thumbs.db
+node_modules
+bower_components
+nbproject
+src/components
+coverage
+build
+.idea
+*.log
